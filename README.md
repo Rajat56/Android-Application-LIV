@@ -1,4 +1,4 @@
-# LIV is a multi-purpose healthcare application.
+# LIV--- Android - Application  LIV is a multi-purpose healthcare application.
 It has features like booking online appointment with
 doctors, symptom checker, doing regular checkups
 at home, finding blood donors online and some other
